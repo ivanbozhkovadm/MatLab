@@ -1,5 +1,3 @@
-//Documentation
-//https://my.pcloud.com/publink/show?code=XZXFWdZwCoWYFcQ7GVxPB84aCmwPSb9YIl7
 
 function fazova_kriva
     clc;clear;

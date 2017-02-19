@@ -1,5 +1,3 @@
-//Documentation
-//https://my.pcloud.com/publink/show?code=XZXFWdZwCoWYFcQ7GVxPB84aCmwPSb9YIl7
 
 %lineino ODU ot purvi red
 clc; clear
